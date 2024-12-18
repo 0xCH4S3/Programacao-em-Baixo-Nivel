@@ -18,7 +18,7 @@ Debian 9 Minimal (.vmx): Uma opção mais leve e minimalista. [Baixar aqui.](htt
 > **Credenciais de Login:** Nome de usuário: usuário, senha: usuário, senha de root: qwerty.
 
 # Resolução dos Desafios
-Para acessar as resoluções dos desafios feitas no livro, [clique aqui](./Perguntas-e-Respostas).
+Para acessar as resoluções dos desafios feitas no livro, [clique aqui]([./Perguntas-e-Respostas](https://github.com/0xCH4S3/book-low-level-programming/blob/main/Perguntas%20e%20Respostas)).
 
 
 
