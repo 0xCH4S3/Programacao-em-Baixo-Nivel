@@ -4,6 +4,10 @@
 
 <img src="https://github.com/user-attachments/assets/61cd22c3-389b-42b1-83f8-cf04eaa8c977" alt="Descrição da Imagem" width="190"/>
 
+Baixe os arquivos como um zip usando o botão verde ou clone o repositório em sua máquina usando o Git.
+
+---
+
 Neste repositório, vamos responder às perguntas do livro "Programação em Baixo Nível" e tentar realizar os desafios propostos. Caso tenha dificuldades, sinta-se à vontade para consultar este repositório. Estou aqui para ajudar a comunidade.
 
 **Recomendações de Máquinas Virtuais para Iniciantes:**
