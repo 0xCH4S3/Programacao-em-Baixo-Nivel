@@ -1,4 +1,4 @@
-# book-low-level-programming
+# Programação-em-Baixo-Nível
 
 **Este repositório acompanha o livro "Programação em Baixo Nível" de Igor Zhirkov (Apress, 2017).**
 
