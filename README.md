@@ -15,7 +15,7 @@ Máquinas virtuais Linux pré-configuradas:
 Linux Ubuntu 16 com Ambiente de Desktop Padrão (VirtualBox): Ideal para quem está começando no Linux. [Baixar aqui.](https://yadi.sk/d/CLf4D4IM3TSpsx)
 
 Debian 9 Minimal (.vmx):. [Baixar aqui.](https://yadi.sk/d/BehMKGzS3LgXzG)
-> **Credenciais de Login:** Nome de usuário: usuário, senha: usuário, senha de root: qwerty.
+> **Credenciais de Login:** Nome de usuário: user, senha: user, senha de root: qwerty.
 
 # Resolução dos Desafios
 Para acessar as resoluções dos desafios feitas no livro, [clique aqui](./Perguntas%20e%20Respostas).
