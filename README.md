@@ -17,5 +17,10 @@ Linux Ubuntu 16 com Ambiente de Desktop Padrão (VirtualBox): Ideal para quem es
 Debian 9 Minimal (.vmx): Uma opção mais leve e minimalista. [Baixar aqui.](https://yadi.sk/d/BehMKGzS3LgXzG)
 > **Credenciais de Login:** Nome de usuário: usuário, senha: usuário, senha de root: qwerty.
 
+# Resolução dos Desafios
+Para acessar as resoluções dos desafios feitas no livro, [clique aqui](./desafios).
+
+
+
 # Conclusão
 Esperamos que este repositório seja um recurso valioso para todos que estão estudando e lendo o livro "Programação em Baixo Nível". Meu intuito é disseminar informação e facilitar o aprendizado e a resolução dos desafios propostos no livro. Se você tiver dúvidas ou sugestões, sinta-se à vontade para contribuir e colaborar com a comunidade. Juntos, podemos tornar o aprendizado mais acessível e eficaz para todos.
