@@ -4,7 +4,6 @@
 
 <img src="https://github.com/user-attachments/assets/61cd22c3-389b-42b1-83f8-cf04eaa8c977" alt="Descrição da Imagem" width="190"/>
 
-Baixe os arquivos como um zip usando o botão verde ou clone o repositório em sua máquina usando o Git.
 
 
 # Propósito
