@@ -7,11 +7,13 @@
 Baixe os arquivos como um zip usando o botão verde ou clone o repositório em sua máquina usando o Git.
 
 
+
 # Propósito
 Neste repositório, vamos responder às perguntas do livro "Programação em Baixo Nível" e tentar realizar os desafios propostos. Caso tenha dificuldades, sinta-se à vontade para consultar este repositório. Estou aqui para ajudar a comunidade.
 
 
-# Máquinas Virtuais Recomendadas pela Apress (Editora Oficial do Livro)
+
+# Máquinas Virtuais Recomendadas pela Apress
 Máquinas virtuais Linux pré-configuradas:
 
 Linux Ubuntu 16 com Ambiente de Desktop Padrão (VirtualBox): Ideal para quem está começando no Linux. [Baixar aqui.](https://yadi.sk/d/CLf4D4IM3TSpsx)
